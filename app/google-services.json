@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80679562092",
+    "project_id": "test-blood-pointy",
+    "storage_bucket": "test-blood-pointy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80679562092:android:29569522e77d195eb22149",
+        "android_client_info": {
+          "package_name": "com.android.Blood_Bank_App.Blood_point"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80679562092-2uoh40n5b11ejmmi8vfn7ajrt903vcjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm3Xk2Rl6sLiIkq2EvUeBaGwCZBmzgAgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80679562092-2uoh40n5b11ejmmi8vfn7ajrt903vcjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
