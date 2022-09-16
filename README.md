@@ -21,9 +21,6 @@ Included:
   
 -To Generate APK, simply navigate on Android studio to Build->Build Apk or u can access file in the directory (Master Folder)
 
-Download will be started automatically. After then install it on your android device.
-Open the application, create an account. That's it.
-
 N.B: It supports only in android version 6.0 or later.
 
 # Preview:
