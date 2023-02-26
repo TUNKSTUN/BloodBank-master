@@ -14,7 +14,7 @@ Welcome to "Rakh-Spot", an android application designed to facilitate easy blood
 - Android Studio IDE for development
 - Supports Android version 4.0 or later (Android SDK 17-28)
 ## How to Generate APK 💾
-To generate APK, simply navigate to Build->Build Apk in Android Studio or access the file in the directory (Master Folder). Please note that the app supports only Android version 6.0 or later.
+To use APK, simply navigate to Build->Build Apk in Android Studio or access the file in the directory (Master Folder). Please note that the app supports only Android version 6.0 or later.
 
 ## Preview 👀
 <p align = "center">
