@@ -24,6 +24,6 @@ To generate APK, simply navigate to Build->Build Apk in Android Studio or access
 <img src="https://github.com/TUNSKTUN/BloodBank-master/blob/master/Profile.png" alt="Splash Screen"/>
 </P>
 ## Changing Database and Package Name 📁
-For detailed instructions on changing the database and package name, please refer to this video tutorial:. 
+For detailed instructions on changing the database and package name, please refer to this video tutorial
 
 [How to Update Database and Package name](https://www.youtube.com/watch?v=nAzAo7shGKQ&ab_channel=AnubhavAnand)
