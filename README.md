@@ -18,12 +18,13 @@ To generate APK, simply navigate to Build->Build Apk in Android Studio or access
 
 ## Preview 👀
 <p align = "center">
-<img src="https://github.com/TUNKSTUN/BloodBank-master/blob/master/Splash.png" alt="Splash Screen"/>
-<img src="https://github.com/TUNKSTUN/BloodBank-master/blob/master/Content.png" alt="Splash Screen"/>
-<img src="https://github.com/TUNSKTUN/BloodBank-master/blob/master/DashBoard.png" alt="Splash Screen"/>
-<img src="https://github.com/TUNSKTUN/BloodBank-master/blob/master/Profile.png" alt="Splash Screen"/>
+<img width="400" src="https://github.com/TUNKSTUN/BloodBank-master/blob/master/Splash.png" alt="Splash Screen"/>
+<img width="400" src="https://github.com/TUNKSTUN/BloodBank-master/blob/master/Content.png" alt="Splash Screen"/>
+<img width="400" src="https://github.com/TUNSKTUN/BloodBank-master/blob/master/DashBoard.png" alt="Splash Screen"/>
+<img width="400" src="https://github.com/TUNSKTUN/BloodBank-master/blob/master/Profile.png" alt="Splash Screen"/>
 </P>
 ## Changing Database and Package Name 📁
+
 For detailed instructions on changing the database and package name, please refer to this video tutorial
 
 [How to Update Database and Package name](https://www.youtube.com/watch?v=nAzAo7shGKQ&ab_channel=AnubhavAnand)
