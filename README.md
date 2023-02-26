@@ -25,4 +25,5 @@ To generate APK, simply navigate to Build->Build Apk in Android Studio or access
 </P>
 ## Changing Database and Package Name 📁
 For detailed instructions on changing the database and package name, please refer to this video tutorial:. 
+
 [How to Update Database and Package name](https://www.youtube.com/watch?v=nAzAo7shGKQ&ab_channel=AnubhavAnand)
