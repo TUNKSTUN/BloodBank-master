@@ -1,4 +1,4 @@
-# Rakh-Spot - Blood Donation Application 🩸 💚 🚑
+# Care Connect - Blood Donation Application 🩸 💚 🚑
 Welcome to "Rakh-Spot", an android application designed to facilitate easy blood donation and collection. Users with an active internet connection and an Android device can easily connect with potential blood donors in their area using this application. The goal of this app is to assist people residing in rural areas who might face difficulties finding donors.
 
 ## Key Features 🌠
